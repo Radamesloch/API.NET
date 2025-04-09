@@ -1,0 +1,6 @@
+@Vendsys_HostAddress = http://localhost:5138
+
+GET {{Vendsys_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
